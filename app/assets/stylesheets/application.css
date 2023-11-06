@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+ .letter {
+  height: 32px;
+  width: 32px;
+  background-color: dodgerblue;
+  border-color: blue;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  text-align: center;
+  margin-left: 8px;
+  margin-right: 8px;
+ }
